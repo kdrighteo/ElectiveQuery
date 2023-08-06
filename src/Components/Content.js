@@ -1,9 +1,9 @@
-import React from 'react'
+import React from "react";
 
 export default function Content() {
   return (
     <div className=" flex justify-center m-8">
-      <div className=" font-sans text-l max-w-prose text-center text-l font-mono	">
+      <div className="text-l max-w-prose text-center text-l font-mono	">
         <p>
           {" "}
           Welcome to ElectiveQuery, Please Enter your username/ID and Choose
