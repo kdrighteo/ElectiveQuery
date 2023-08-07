@@ -5,14 +5,11 @@ export default function QueryPage() {
     <div className=" flex justify-center ">
       <div className=" grid grid-cols-2 gap-6 ">
         <div className=" grid-cols-1 grid place-items-center">
-          <img src="UoG.png" width={200} />
+          <img src="UoG.png" width={200} alt="" />
         </div>
 
         <div className=" grid grid-cols-1 ">
           <div className=" grid mb-6 text-center ring-2 ring-blue-500">
-            <div>
-              <img />
-            </div>
             <div>
               <label>Name: Mr. DANSO</label>
             </div>

@@ -17,7 +17,7 @@ function App() {
         <div>
           <QueryBox />
         </div>
-        {/* <div>
+        {/* <div className=" mt-52">
           <QueryPage />
         </div> */}
       </div>
